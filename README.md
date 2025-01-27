@@ -7,18 +7,17 @@
 
 ## 📌 About Me  
 Hi there! 👋 I'm an enthusiastic **AI & Data Science student** with a passion for coding and building impactful solutions.  
-Currently, I’m diving deep into **React ⚛️** and **Python 🐍** to expand my skills in **full-stack development** and machine learning 🤖.
+Currently, I’m diving deep into **React ⚛️** and **Python 🐍** to expand my skills in **full-stack development**.
 
-### 💡 **What I'm Working On:**  
-- 🌟 Building projects that bridge the gap between **frontend and backend** using **React ⚛️**.  
-- 📊 Leveraging **Python 🐍** for data-driven decision-making and machine learning applications 🤖.  
-- 🛠️ Exploring tools and technologies to create innovative, user-friendly applications 💡.
+## 📈 Current Goals  
+- 💻 Enhancing my **full-stack development** skills by building dynamic and user-friendly web applications.  
+- 🚀 Exploring **advanced Python concepts** for application development and data analysis.  
+- 🌟 Building projects that solve practical problems and showcase innovation. 
 
-### 🌱 **Learning Journey:**  
-- 📘 Improving my skills in **full-stack web development 🌐**.  
-- 🤖 Aspiring to dive deeper into **AI/ML 🤖** and **cloud computing ☁️**.  
-- 💻 Collaborating with the developer community to solve real-world challenges 🌍.
-
+## 🌟 Key Focus Areas  
+- 🌟 Gaining hands-on experience through small, meaningful projects.  
+- 🚀 Building confidence in solving real-world coding challenges.
+- 🔍 Exploring different tools and technologies to expand my knowledge. 
 ---
 
 ## 🌟 Tech Stack  
@@ -27,6 +26,9 @@ Currently, I’m diving deep into **React ⚛️** and **Python 🐍** to expand
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat)
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black&style=flat)  
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat)  
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
 
 **Frameworks/Libraries:**  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
