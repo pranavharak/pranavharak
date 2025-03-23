@@ -11,7 +11,7 @@ Currently, I’m diving deep into **React ⚛️** and **Python 🐍** to expand
 
 ## 📈 Current Goals  
 - 💻 Enhancing my **full-stack development** skills by building dynamic and user-friendly web applications.  
-- 🚀 Exploring **advanced Python concepts** for application development and data analysis.  
+- 🚀 Exploring **advanced Python concepts** for application development.  
 - 🌟 Building projects that solve practical problems and showcase innovation. 
 
 ## 🌟 Key Focus Areas  
